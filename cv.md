@@ -16,7 +16,7 @@ Skills:
      
 3.CSS
 
-Code exampls:..Code exampls: https://github.com/Dexnkt001/MyLabs.git
+Code exampls:Code exampls: https://github.com/Dexnkt001/MyLabs.git
 
 Experience: almost all I know is from a university course. My work :  https://github.com/Dexnkt001/MyLabs.git
 
