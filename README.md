@@ -1,1 +1,1 @@
- https://Dexnkt001.github.io/rsschool-cv/
+ https://Dexnkt001.github.io/rsschool-cv/resume
