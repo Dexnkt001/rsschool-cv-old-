@@ -11,8 +11,12 @@ Summery: About two years ago, my brother began to professionally engage in progr
 Skills: 1.C++(studying at BSUIR)
         2.HTML
         3.CSS
+
 Code exampls:..Code exampls: https://github.com/Dexnkt001/MyLabs.git
+
 Experience: almost all I know is from a university course. My work :  https://github.com/Dexnkt001/MyLabs.git
+
 Education: 1 course at the university and a course of video lessons in C ++.
+
 English: English lessons at the school for seven years and 1 course at the university.
 
