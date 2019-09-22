@@ -1,3 +1,4 @@
+
 first name: Nikita, Last name: Dekhand
 
 Contacts info:
@@ -11,9 +12,9 @@ Summery: About two years ago, my brother began to professionally engage in progr
 Skills:
 
 1.C++(studying at BSUIR)
-     
+       
 2.HTML
-     
+
 3.CSS
 
 Code exampls:Code exampls: https://github.com/Dexnkt001/MyLabs.git
